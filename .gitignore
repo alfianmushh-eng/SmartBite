@@ -15,7 +15,6 @@ data/models/
 *.pth
 *.onnx
 *.tflite
-notebooks/
 .vscode/
 .idea/
 *.swp
