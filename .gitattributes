@@ -1,0 +1,22 @@
+# Auto detect text files
+* text=auto
+
+# Python sources
+*.py text diff=python
+
+# Documentation
+*.md text
+*.rst text
+
+# Binary files
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.pt binary
+*.pth binary
+*.onnx binary
+*.tflite binary
+
+# Generated files
+*.pyc binary
+*.egg binary
